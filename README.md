@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![GloomyStore's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloomystore&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloomystore)](https://github.com/anuraghazra/github-readme-stats)
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloomystore&langs_count=10&layout=compact&theme=dark)](https://github.com/gloomystore/gloomystore)
 
 
