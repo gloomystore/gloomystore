@@ -1,6 +1,4 @@
-### 글루미스토어 👋
-
-# Hi I'm Hyungjin <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="28px"></h2>
+# 글루미스토어 👋
 
 ## Front Stack
 <span>
