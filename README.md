@@ -1,6 +1,36 @@
 ### 글루미스토어 👋
 
+# Hi I'm Hyungjin <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="28px"></h2>
 
+## Front Stack
+<span>
+<img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=Next.js&logoColor=#FFFFFF">
+<img src="https://img.shields.io/badge/-React-%2323272F?style=for-the-badge&logo=React&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+<br>
+<img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+<img src="https://img.shields.io/badge/-Webpack-%238DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
+</span>
+
+## Backend Stack
+<span>
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/-Mongodb-%23001E2B?style=for-the-badge&logo=Mongodb&logoColor=#47A248">
+</span>
+
+## Design
+<span>
+<img src="https://img.shields.io/badge/-Adobe-%23FF0000?style=for-the-badge&logo=Adobe&logoColor=white">
+<img src="https://img.shields.io/badge/-Figma-%23222222?style=for-the-badge&logo=Figma&logoColor=white">
+</span>
+
+## And
 **gloomystore/gloomystore** 는 ✨ _special_ ✨ 하게 특이한 걸 만들고 있습니다.
 
 Here are some ideas to get you started:
