@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GloomyStore's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloomystore&show_icons=true&theme=radical)
+<!--![GloomyStore's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloomystore&show_icons=true&theme=radical)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloomystore&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
