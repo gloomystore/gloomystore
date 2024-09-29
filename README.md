@@ -34,8 +34,8 @@
 
 Here are some ideas to get you started:
 
+- 🌱 잔디: 대부분의 프로젝트는 개인 서버의 GitLab에 올라가므로, Github 잔디는 적어보일 수 있습니다.
 - 🔭 일하는 중: 현재 대기업 클라우드 팀에서 일하고 있어요.
-- 🌱 배우는 중: React Query를 배우고 있습니다
 - 👯 협력 중: 요청 받습니다.
 - 🤔 도움을 찾는 중: 아직 혼자서 잘 나아가고 있습니다.
 - 💬 실무 사용 중: Nextjs, Reactjs, Vuejs, 등 SPA를 다루고 있어요.
