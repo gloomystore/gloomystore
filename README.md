@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloomystore&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloomystore&layout=compact&theme=dark)
-<img src="https://util.gloomystore.com/api/images/util2.jpg?referrer=https://github.com/gloomystore" alt="util">
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloomystore&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
