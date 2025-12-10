@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <!--![GloomyStore's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloomystore&show_icons=true&theme=radical)-->
 
 [![Top Langs](https://github-readme-stats-peach-six-68.vercel.app/api/top-langs/?username=gloomystore&theme=dark)](https://github.com/gloomystore/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats-peach-six-68.vercel.app/api/top-langs/?username=gloomystore&layout=compact&theme=dark)
 
 
